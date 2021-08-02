@@ -2,7 +2,7 @@
 
 I'm Kimheang Sim a Full Stack Web Developer and Content Creator on [Youtube](https://www.youtube.com/channel/UCcJJEQSePEMDEwD_cJfKfcw). I Spend most of time coding outstanding projects or recording tutorials.
 
-### 📫 How to reach me ...
+#### ❤️ Follow Me
 
 <a href="https://www.linkedin.com/in/kimheang-sim-15a3721b5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCcJJEQSePEMDEwD_cJfKfcw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,6 +36,14 @@ I'm Kimheang Sim a Full Stack Web Developer and Content Creator on [Youtube](htt
 ### 🌱 I’m currently learning ...
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+
+## 📈 Stats
+
+[![Kimheang's github stats](https://github-readme-stats.vercel.app/api?username=Kimheang-Developer&theme=blue-green)](https://github.com/Kimheang-Developer/github-readme-stats)
+
+## Top Languages
+
+[![Kimheang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimheang-Developer&theme=blue-green)](https://github.com/Kimheang-Developer/github-readme-stats)
 
 
 
