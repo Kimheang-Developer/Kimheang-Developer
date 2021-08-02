@@ -37,13 +37,13 @@ I'm Kimheang Sim a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
 
-## 📈 Stats
+<!---## 📈 Stats
 
 [![Kimheang's github stats](https://github-readme-stats.vercel.app/api?username=Kimheang-Developer&theme=blue-green)]
 
 ## Top Languages
 
-[![Kimheang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimheang-Developer&theme=blue-green)]
+[![Kimheang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimheang-Developer&theme=blue-green)]--->
 
 
 
