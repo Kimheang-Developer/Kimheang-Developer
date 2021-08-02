@@ -8,7 +8,7 @@ I'm Kimheang Sim a Full Stack Web Developer and Content Creator on [Youtube](htt
 - 
 ##### 📫 How to reach me ...
 
-[![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcJJEQSePEMDEwD_cJfKfcw) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimheang-sim-15a3721b5/)
+[![Mail Badge](https://img.shields.io/badge/-HeangDeveloper-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcJJEQSePEMDEwD_cJfKfcw) [![Linkedin Badge](https://img.shields.io/badge/-Kimheang Sim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimheang-sim-15a3721b5/)
 <!---
 Kimheang-Developer/Kimheang-Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
