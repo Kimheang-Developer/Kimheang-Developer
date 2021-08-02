@@ -39,11 +39,11 @@ I'm Kimheang Sim a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 ## 📈 Stats
 
-[![Kimheang's github stats](https://github-readme-stats.vercel.app/api?username=Kimheang-Developer&theme=blue-green)](https://github.com/Kimheang-Developer/github-readme-stats)
+[![Kimheang's github stats](https://github-readme-stats.vercel.app/api?username=Kimheang-Developer&theme=blue-green)]
 
 ## Top Languages
 
-[![Kimheang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimheang-Developer&theme=blue-green)](https://github.com/Kimheang-Developer/github-readme-stats)
+[![Kimheang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimheang-Developer&theme=blue-green)]
 
 
 
